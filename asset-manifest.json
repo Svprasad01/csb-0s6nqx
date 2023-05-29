@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://svprasad01.github.io/csb-0s6nqx/static/css/main.002e30ba.css",
+    "main.js": "https://svprasad01.github.io/csb-0s6nqx/static/js/main.364810f7.js",
+    "static/media/aleks-dahlberg-3cWA3U8xb5w-unsplash.jpg": "https://svprasad01.github.io/csb-0s6nqx/static/media/aleks-dahlberg-3cWA3U8xb5w-unsplash.ca153bba5e595b7435d4.jpg",
+    "index.html": "https://svprasad01.github.io/csb-0s6nqx/index.html",
+    "main.002e30ba.css.map": "https://svprasad01.github.io/csb-0s6nqx/static/css/main.002e30ba.css.map",
+    "main.364810f7.js.map": "https://svprasad01.github.io/csb-0s6nqx/static/js/main.364810f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002e30ba.css",
+    "static/js/main.364810f7.js"
+  ]
+}
